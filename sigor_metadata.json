@@ -1,12 +1,10 @@
 {
-    "name": "Sigor",
-    "symbol": "SIGOR",
-    "description": "",
-    "image": "https://raw.githubusercontent.com/Bi9Snail/Sigor/main/sigor_logo.jpeg",
-    "extensions":  {
-        "telegram": "https://t.me/+errZRzgy2qJhYTg1",
-        "twitter": "https://twitter.com/Sigorcoin"
-    }
+  "name": "Sigor",
+  "symbol": "SIGOR",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Bi9Snail/Sigor/main/sigor_logo.jpeg",
+  "extensions": {
+    "telegram": "https://t.me/+errZRzgy2qJhYTg1",
+    "twitter": "https://twitter.com/Sigorcoin"
+  }
 }
-
-
